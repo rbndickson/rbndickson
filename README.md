@@ -1,4 +1,8 @@
-### Hi there 👋
+### 🗼 Software Engineer in Tokyo
+
+👷 Creator and Developer of [Emoji Flashcards](/projects/emoji-flashcards/), a web application to provide free language teaching materials for various languages
+🏫 Previously taught English in schools in Tokyo and Chiba
+🇯🇵 Speaks English and intermediate level Japanese languages
 
 <!--
 **rbndickson/rbndickson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
