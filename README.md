@@ -1,8 +1,8 @@
 ### 🗼 Software Engineer in Tokyo
 
-[rbnd.xyz](rbnd.xyz)
+[rbnd.xyz](https://rbnd.xyz)
 
-👨‍💻 Creator and Developer of [Emoji Flashcards](http://emojiflashcards.com), a web application to provide free language teaching materials for various languages
+👨‍💻 Creator and Developer of [Emoji Flashcards](https://emojiflashcards.com), a web application to provide free language teaching materials for various languages
 
 📱 Studied web development with Launchschool and Udacity
 
